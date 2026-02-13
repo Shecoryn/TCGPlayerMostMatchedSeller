@@ -1,4 +1,4 @@
-package main.java.org.shekor.tcgmatcher.dto;
+package org.shekor.tcgmatcher.dto;
 
 public class CardRequest {
     private String cardName;

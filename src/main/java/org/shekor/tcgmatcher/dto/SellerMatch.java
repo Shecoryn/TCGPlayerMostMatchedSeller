@@ -1,4 +1,4 @@
-package main.java.org.shekor.tcgmatcher.dto;
+package org.shekor.tcgmatcher.dto;
 
 import java.util.HashSet;
 import java.util.Set;
