@@ -8,6 +8,10 @@ public class SellerMatch {
     private double sellerRating;
     private Set<String> matchedCards = new HashSet<>();
 
+    public SellerMatch(String sellerName) {
+        this.sellerName = sellerName;
+    }
+
     public SellerMatch(String sellerName, double sellerRating) {
         this.sellerName = sellerName;
         this.sellerRating = sellerRating;
